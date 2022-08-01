@@ -1,0 +1,4 @@
+stock 1: stock 2: spearmen:
+AAPL,A,.50
+B,A,.59
+MRNA,AAPL,0
